@@ -84,14 +84,6 @@ hasher algorithms
 | RIPEMD256  | 256 bits    |
 | CRC32      | 32 bits     |
 
-## Building
-
-Requires Rust 1.70 or later.
-
-```bash
-cargo build --release
-```
-
 ## License
 
 This project is licensed under the GNU General Public License v3.0 — see the [LICENSE](LICENSE) file for details.
