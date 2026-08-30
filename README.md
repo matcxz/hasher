@@ -1,6 +1,6 @@
 # Hasher
 
-Universal file integrity tool — generate and verify hashes across all major algorithms.
+Universal file integrity tool, generate and verify hashes across all major algorithms.
 
 ## Installation
 
