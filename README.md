@@ -7,7 +7,7 @@ Universal file integrity tool, generate and verify hashes across all major algor
 ### From source
 
 ```bash
-git clone https://github.com/matheusc457/hasher
+git clone https://github.com/mathzx0/hasher
 cd hasher
 cargo build --release
 ```
