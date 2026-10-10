@@ -6,7 +6,7 @@ Universal file integrity tool, generate and verify hashes across all major algor
 
 ### From source
 
-#### Dependencies
+### Dependencies
 - cargo
 
 ```bash
