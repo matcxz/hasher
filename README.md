@@ -6,9 +6,21 @@ Universal file integrity tool, generate and verify hashes across all major algor
 
 ### From source
 
+##### Dependencies
+- cargo
+
 ```bash
-git clone https://github.com/mathzx0/hasher
+git clone https://github.com/matcxz/hasher
 cd hasher
+cargo build --release
+```
+
+### Nix
+Or you can use a development shell with all dependencies:
+
+```bash
+git clone https://github.com/matcxz/hasher && cd hasher
+nix develop
 cargo build --release
 ```
 
